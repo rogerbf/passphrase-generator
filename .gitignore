@@ -1,0 +1,8 @@
+node_modules
+distribution
+.DS_Store
+package
+passphrase-generator*.tgz
+npm-debug.log
+coverage
+NOTES
